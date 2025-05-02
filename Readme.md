@@ -2,7 +2,7 @@
 
 1. Введение в Python
 
-    * Лекция:
+    * Лекция: [co](https://colab.research.google.com/github/ds-course-alexiv/Intro_Python/blob/main/lect_1.ipynb)
     * Практика:
 
 2. Типы данных и переменные
